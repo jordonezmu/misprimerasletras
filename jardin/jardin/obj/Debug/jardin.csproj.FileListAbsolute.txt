@@ -1,0 +1,9 @@
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\bin\Debug\jardin.exe.config
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\bin\Debug\jardin.exe
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\bin\Debug\jardin.pdb
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\obj\Debug\jardin.csprojAssemblyReference.cache
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\obj\Debug\jardin.Properties.Resources.resources
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\obj\Debug\jardin.csproj.GenerateResource.cache
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\obj\Debug\jardin.exe
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\obj\Debug\jardin.pdb
+C:\Users\Juan Diego\source\misprimerasletras\jardin\jardin\obj\Debug\jardin.Login.resources
